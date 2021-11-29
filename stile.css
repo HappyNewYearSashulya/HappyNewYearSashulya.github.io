@@ -9,7 +9,7 @@ a{
 	text-decoration: none;
 	color: red;
 	background: rgba(122,175,11,0.5);
-	margin-left: 10px;
+	margin-left: 4px;
 }
 p{
 	min-height: 30px;
@@ -22,7 +22,7 @@ p{
 .menu{
 	display: flex;
 	justify-content: space-between;
-	margin-left: 10px;
+	margin-left: 4px;
 	width: 90%;
 	height: 50%;
 	min-height: 50%;
